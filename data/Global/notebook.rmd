@@ -29,7 +29,7 @@ Then, I had set the first row of the data frame as the column names.
 data <- data.frame(raw.data[])
 colnames(data) <- as.character(unlist(data[1,]))
 data = data[-1, ]
-data
+head(data)
 ```
 Finally, I wanted to spread the data so that each city had its own listing with corresponding provider information. First I had to separate the cities and treat them as independent variables.
 ```{r}
@@ -39,16 +39,16 @@ data <- mutate(data, City = strsplit(as.character(City), ",")) %>%
 
 ```
 
-I then had to cleam up the cities and figure out how many connections they each had.
+I then had to clean up the cities and figure out how many connections they each had.
 ```{r}
-cities <- unique(trimws(data$City))
+cities <- unique(trimws(data$City)) #cleaning
 connections_per_city <- data.frame()
-for (city in cities){
+for (city in cities){ #counting
 connections <- dim(subset(data, City == city))[1]
 new.row <- cbind(city, connections)
 connections_per_city <- rbind(new.row, connections_per_city)
 }
-ones <- sum(connections_per_city$connections == 1)
+ones <- sum(connections_per_city$connections == 1) #binning
 twos <- sum(connections_per_city$connections == 2)
 threes <- sum(connections_per_city$connections == 3)
 fours <- sum(connections_per_city$connections == 4)
@@ -78,17 +78,22 @@ networks <- c(str_extract(lines[first.chunk], "(?<=<strong>)(.*\n?)(?=</strong>)
 communities <- c(str_extract(lines[first.chunk+1], "(?<=Served: )(.*)(?=</em>)" ))
 years <- c(str_extract(lines[first.chunk+3], "(?<=Year: )(.*)(?=</li>)" ))
 populations <- c(str_extract(lines[first.chunk+4], "(?<=Population: )(.*)(?=</li>)" ))
-costs <- c(str_extract(lines[first.chunk+5], "(?<=Cost: )(.*)(?=</li>)"))
+costs <- c(str_extract(lines[first.chunk+5], "(?<=Cost: )([0-9]{1,8})(?=</li>)"))
 funding.methods <- c(str_extract(lines[first.chunk+6], "(?<=Method: )(.*)(?=</li>)" ))
 governances <- c(str_extract(lines[first.chunk+7], "(?<=Governance: )(.*)(?=</li>)" ))
 services <- c(str_extract(lines[first.chunk+8], "(?<=Services: )(.*)(?=</li>)" ))
 speeds <- c(str_extract(lines[first.chunk+9], "(?<=Speed: )(.*)(?=</li>)" ))
 ```
-Then I bound all the variables into a dataframe and wrote them to a csv.
+Then I bound all the variables into a dataframe and separated the services.
 ```{r}
-data <- (cbind(networks, communities, years, populations, costs, funding.methods, governances, services, speeds))
-head(data)
-write.csv(data, file = "IXPs.csv")
+data <- data.frame(cbind(networks, communities, years, populations, costs, funding.methods, governances, services, speeds))
+data <- separate(data, services, into = c("Service1", "Service2", "Service3"), sep = ',')
+head(data,10)
+
+```
+Then I wrote it all to a csv
+```{r}
+write.csv(data, file = "ftth.csv")
 ```
 For my analysis, I wanted to see the cost/per person of building a fiber network. So I cleaned up the data by pulling out the dollar figures and removing the NAs. 
 ```{r}
@@ -100,18 +105,38 @@ funds <- str_extract(data$costs, "[0-9]{1,4}")
 funds <- funds[!is.na(funds)]
 funds = as.double(funds)
 mean_f = mean(funds)
-
-#Population
+#Population #(in thousands)
 pop <- str_extract(data$populations, "[0-9]{1,7}")
 pop <- pop[!is.na(pop)]
 pop <- as.double(pop)
 mean_p <- mean(pop)
 
 #Wrapping it Up
-mean_f /mean_p
+dollar.per.user = mean_f /mean_p
+dollar.per.user
 ```
-The average community network costs about 1,000,000 per person! Clearly something is wrong here! This might explain our results from section 1.
+The average community network costs about 1,0049 per person! Below, we can find the maximum lifespan of one of these networks. 
 
+```{r}
+year <- c(str_extract(data$year, "[0-9]{4}"))
+year <- year[!is.na(year)]
+year <- as.integer(year)
+print("Minimum:")
+min(year)
+print("Summary:")
+summary(year)
+data[22,]
+```
+The oldest network on the list is the Marshall, Missouri Municipal Utilities Corporation. With a coaxial network to each home (reflected in the 90/45 transfer rate), this network not only surpasses many places in the world, but it is self-managed by the city. It is not as fast as a brand-new fiber network, but easily serves Netflix to a household at peak times. If we amortize these costs over 16 years, we can find our cost per person per year. Even if we look at the average lifespan, we see that the cost is only $116/user/year. 
+```{r}
+dollar.per.user.per.year = dollar.per.user/(2018 - 2002)
+dollar.per.user.per.year * 1000 # converting 10^6 dollars/10^3 people
+
+less.optimistic = dollar.per.user/(2018-2009) *1000
+less.optimistic
+
+```
+With reasonable optimism, we see that municipal a network costs about $65/user/year. The only other concern would be the missing data from the the cost and population datasets. These may be outliers in actuality, which could dramatically shift this average.
 ## Mac Addresses
 Finally, I wanted to be able to track the types of devices so that I can do more deep network intelligence. First, I have to load the dataset from the IEEE (available as a .txt).
 
@@ -160,4 +185,8 @@ per_country <- data.frame(per_country)
 arrange(per_country, number)
 ```
 We can see from this data that the US has 3 times as many networked devices manufacturers than China, despite other assumptions. Additionally, both Germany and Taiwan have significant investments in this field.
+
+```{r}
+data
+```
 

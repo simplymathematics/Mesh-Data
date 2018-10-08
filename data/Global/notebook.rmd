@@ -2,18 +2,21 @@
 title: "Project 2"
 author: "simplymathematics"
 date: "October 7, 2018"
-output: html_document
+output:
+  html_document: default
+  latex_engine: xelatex
+
 ---
 Instead of using three different databases, I wanted to build a reference database for the data I collected previously. The first step, as always, is to get your environment ready.
 
 ```{r}
-library(curl)
-library(XML)
-library(stringr)
-library(tidyverse)
+library(curl, quietly = TRUE)
+library(XML, quietly= TRUE)
+library(stringr, quietly= TRUE)
+suppressPackageStartupMessages(library(tidyverse, quietly = TRUE))
 
 ```
-## Internet Exchange Points
+# Internet Exchange Points
 I wanted an update-able dataset of Internet Exchange points around the world. Each NIC (regional IP/TCP benevolent overlords) has datasets of their own, but I'd have to parse each individually. Wikipedia seems to keep an accurate enough dataset. 
 
 Then, I used curl to import the data and the XML library to parse it as a tree
@@ -48,18 +51,19 @@ connections <- dim(subset(data, City == city))[1]
 new.row <- cbind(city, connections)
 connections_per_city <- rbind(new.row, connections_per_city)
 }
-ones <- sum(connections_per_city$connections == 1) #binning
-twos <- sum(connections_per_city$connections == 2)
-threes <- sum(connections_per_city$connections == 3)
-fours <- sum(connections_per_city$connections == 4)
-distribution <- cbind(ones, twos, threes, fours)
-barplot(distribution)
+one <- sum(connections_per_city$connections == 1) #binning
+two <- sum(connections_per_city$connections == 2)
+three <- sum(connections_per_city$connections == 3)
+four <- sum(connections_per_city$connections > 4)
+distribution <- cbind(one, two, three, four)
+barplot(distribution, legend.text = "Number of Connections within City")
 write.csv(data, file = "IXPs.csv")
 ```
-### Conclusion
-This data is stil messy, in particular because the city data isn't standardized. The unique() does not understand the similarity between "NYC" and " New York City". Manual work will have to be done to collapse all of these cities. Additionally, I do not know whether Seacaucus NJ should count as NYC for the purposes of this project since it serves the city. In the vast majority of other cases, this is not an issue. Despite this, we can see that the vast majority of cities in the world have only a single high-level connection to *the* internet. 
 
-## Fiber to the Home
+This data is stil messy, in particular because the city data isn't standardized. For example, the unique() fucntion does not understand the similarity between "NYC" and " New York City". Manual work will have to be done to collapse all of these cities. Additionally, I do not know whether Seacaucus NJ should count as NYC for the purposes of this project since it serves the same metropolitan area and fiber optic signals travel nearly the spped of light. However, despite this limited issue, we can see that the vast majority of cities in the world have only a single high-level connection to *the* internet, and that that privilege is only granted to a few cities. 
+
+
+# Fiber to the Home
 I also wanted a list of cities and municipalities that hand locally-controlled infrastructure. For that, I scraped the Muninetworks website.
 ```{r}
 data.file2 <- curl_download("https://muninetworks.org/content/municipal-ftth-networks", "FTTH/ftth.html")
@@ -78,11 +82,12 @@ networks <- c(str_extract(lines[first.chunk], "(?<=<strong>)(.*\n?)(?=</strong>)
 communities <- c(str_extract(lines[first.chunk+1], "(?<=Served: )(.*)(?=</em>)" ))
 years <- c(str_extract(lines[first.chunk+3], "(?<=Year: )(.*)(?=</li>)" ))
 populations <- c(str_extract(lines[first.chunk+4], "(?<=Population: )(.*)(?=</li>)" ))
-costs <- c(str_extract(lines[first.chunk+5], "(?<=Cost: )([0-9]{1,8})(?=</li>)"))
+costs <- c(str_extract(lines[first.chunk+5], "(?<=Cost: )(.*)(?=</li>)"))
 funding.methods <- c(str_extract(lines[first.chunk+6], "(?<=Method: )(.*)(?=</li>)" ))
 governances <- c(str_extract(lines[first.chunk+7], "(?<=Governance: )(.*)(?=</li>)" ))
 services <- c(str_extract(lines[first.chunk+8], "(?<=Services: )(.*)(?=</li>)" ))
 speeds <- c(str_extract(lines[first.chunk+9], "(?<=Speed: )(.*)(?=</li>)" ))
+costs
 ```
 Then I bound all the variables into a dataframe and separated the services.
 ```{r}
@@ -137,7 +142,8 @@ less.optimistic
 
 ```
 With reasonable optimism, we see that municipal a network costs about $65/user/year. The only other concern would be the missing data from the the cost and population datasets. These may be outliers in actuality, which could dramatically shift this average.
-## Mac Addresses
+
+# Mac Addresses
 Finally, I wanted to be able to track the types of devices so that I can do more deep network intelligence. First, I have to load the dataset from the IEEE (available as a .txt).
 
 ```{r}
@@ -171,7 +177,7 @@ head(data)
 write.csv(data, file = "IEEE-MACs.csv")
 
 ```
-I'm repeating the same geographic analysis as above, but this time looking at zip codes. 
+I'm repeating the same geographic analysis as above, but this time looking at countries where hardware is produced. 
 ```{r}
 per_country = data.frame()
 data <- data.frame(Country)
@@ -184,9 +190,22 @@ for (country in country.list){
 per_country <- data.frame(per_country)
 arrange(per_country, number)
 ```
-We can see from this data that the US has 3 times as many networked devices manufacturers than China, despite other assumptions. Additionally, both Germany and Taiwan have significant investments in this field.
+We can see from this data that the US has 3 times as many networked devices manufacturers than China, despite other assumptions. Additionally, both Germany and Taiwan have significant investments in this field. Below are some dependencies for a map. 
 
 ```{r}
-data
+#install.packages("countrycode")
+#install.packages("rworldmap")
+suppressMessages(library(countrycode))
+suppressMessages(library(rworldmap))
+```
+
+```{r}
+full.name <- countrycode(per_country$country, "iso2c", "country.name", nomatch = NULL )
+per_country <- cbind(per_country, full.name)
+per_country
+
+ieee.manufacturers.per.country <- joinCountryData2Map(per_country, joinCode = "ISO2", nameJoinColumn = "country")
+mapCountryData(ieee.manufacturers.per.country, nameColumnToPlot = "number", mapTitle ="Distinct IEEE Manufacturers per Country", addLegend =FALSE, colourPalette =  "heat", missingCountryCol = "black", oceanCol = "black" )
+
 ```
 

@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#">
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://muninetworks.org/sites/www.muninetworks.org/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Cooperatives around the country have built on their long legacy of delivering essential infrastructure by starting to deliver next-generation Internet services.They are part of the fabric of rural America. The member owners control the cooperative: each person receiving service is a member of the cooperative and can directly vote in elections for the Board of Directors or even" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://muninetworks.org/content/rural-cooperatives-page" />
+<link rel="shortlink" href="https://muninetworks.org/node/6920" />
+<meta property="og:site_name" content="community broadband networks" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://muninetworks.org/content/rural-cooperatives-page" />
+<meta property="og:title" content="Cooperatives Build Community Networks" />
+<meta property="og:description" content="Cooperatives around the country have built on their long legacy of delivering essential infrastructure by starting to deliver next-generation Internet services.They are part of the fabric of rural America. The member owners control the cooperative: each person receiving service is a member of the cooperative and can directly vote in elections for the Board of Directors or even become a member of the Board. Here, we cover the basics of cooperatives in rural areas and then discuss the details of electric and telephone cooperatives that have already branched out into Internet service. Finally, we highlight the first Internet fiber optic cooperative and discuss how other communities have better Internet service through building their own networks." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://muninetworks.org/content/rural-cooperatives-page" />
+<meta name="twitter:title" content="Cooperatives Build Community Networks" />
+<meta name="twitter:description" content="Cooperatives around the country have built on their long legacy of delivering essential infrastructure by starting to deliver next-generation Internet services.They are part of the fabric of rural" />
+  <title>Cooperatives Build Community Networks | community broadband networks</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <link type="text/css" rel="stylesheet" href="https://muninetworks.org/sites/www.muninetworks.org/files/css/css_75PCjfIoVtAyI74OZWCMfsUUeGZFLWitHyAVvgW50DU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://muninetworks.org/sites/www.muninetworks.org/files/css/css_6KxdeXFn4-L865-jG1PgJedjUNLtwhl0iT5HCQMt3AA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://muninetworks.org/sites/www.muninetworks.org/files/css/css_VHT1Y_yH4jP4NWnSyOOEAAKCa-6p58qTbRleL8cMevU.css" media="all" />
+  <script src="https://muninetworks.org/sites/www.muninetworks.org/files/js/js_x0MhBQfHNAIO1NwkQgzf_TGN4b8eMmKre3nqUfoQv3w.js"></script>
+<script src="https://muninetworks.org/sites/www.muninetworks.org/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
+<script>window.a2a_config=window.a2a_config||{};window.da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='https://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){da2a.script_ready=true;if(da2a.html_done)da2a.init();},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};(function ($){Drupal.behaviors.addToAny = {attach: function (context, settings) {if (context !== document && window.da2a) {if(da2a.script_ready)a2a.init_all('page');da2a.script_load();}}}})(jQuery);a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.overlays=a2a_config.overlays||[];a2a_config.templates=a2a_config.templates||{};a2a_config.exclude_services = ["myspace", "linkedin", "whatsapp", "tumblr", "reddit", "pinterest"];
+a2a_config.num_services = 4;</script>
+<script src="https://muninetworks.org/sites/www.muninetworks.org/files/js/js_tzEGTRyjbSNo4GS4Eh6_ZJb5BgaDvQF9UshkdxwThp0.js"></script>
+<script src="https://muninetworks.org/sites/www.muninetworks.org/files/js/js_FBshW6u3Sl15FUBjVaQpi9_MRsSg73tCig8X60JF8SE.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cbn_d7_subtheme","theme_token":"5TsSlSDy8yo6Yqdc5kfOdFSkMcSuGLswNpTsNNW1NC0","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"1":1,"sites\/all\/modules\/disqus\/disqus.js":1,"sites\/muninetworks.org\/themes\/cbn_d7_subtheme\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/www.muninetworks.org\/themes\/munitheme\/css\/nice_menus_muni_networks.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/muninetworks.org\/themes\/zen\/system.base.css":1,"sites\/muninetworks.org\/themes\/cbn_d7_subtheme\/system.menus.css":1,"sites\/muninetworks.org\/themes\/cbn_d7_subtheme\/system.messages.css":1,"sites\/muninetworks.org\/themes\/cbn_d7_subtheme\/system.theme.css":1,"sites\/muninetworks.org\/themes\/zen\/comment.css":1,"sites\/muninetworks.org\/themes\/zen\/node.css":1,"sites\/muninetworks.org\/themes\/cbn_d7_subtheme\/css\/styles.css":1}},"googleCSE":{"cx":"004598871649759555172:edvw6q1ldtw","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":1},"urlIsAjaxTrusted":{"\/content\/rural-cooperatives-page":true},"disqus":{"domain":"muninetworks","url":"https:\/\/muninetworks.org\/content\/rural-cooperatives-page","title":"Cooperatives Build Community Networks","identifier":"node\/6920"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/muninetworks.org/themes/zen/js/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-6920 node-type-page section-content" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      
+<div id="page">
+
+  <header class="header" id="header" role="banner">
+
+          <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://muninetworks.org/sites/www.muninetworks.org/files/logo.png" alt="Home" class="header__logo-image" /></a>
+    
+          <div class="header__name-and-slogan" id="name-and-slogan">
+                  <h1 class="header__site-name" id="site-name">
+            <a href="/" title="Home" class="header__site-link" rel="home"><span>community broadband networks</span></a>
+          </h1>
+        
+              </div>
+    
+      <div class="header__region region region-header">
+    <div class="block block-block first odd" id="block-block-2">
+
+      
+  <p> Discover how communities are investing in their own Internet infrastructure to promote economic prosperity and improve quality of life.</p>
+
+</div>
+<div class="block block-block last even" id="block-block-15">
+
+      
+  <div style="margin-top: 1em">
+A project of the
+<a href="https://ilsr.org" target="_new"><div class="ilsr-logo"></div></a>
+</div>
+</div>
+  </div>
+
+  </header>
+
+
+  <div id="navigation">
+
+  <button id="toggle-menu" class="mobile toggle">☰</button>
+
+    <div id="main-menu">
+      <div class="region region-navigation">
+    <div class="block block-nice-menus first odd" id="block-nice-menus-1">
+
+      
+  <ul class="nice-menu nice-menu-down nice-menu-menu-main-menu" id="nice-menu-1"><li class="menu__item menu-409 menu-path-front first odd "><a href="/" title="" class="menu__link">Home</a></li>
+<li class="menu__item menu-3180 menu-path-news  even "><a href="/news" title="" class="menu__link">News</a></li>
+<li class="menu__item menu-290 menuparent  menu-path-node-56 active-trail  odd "><a href="/content/key-points" title="" class="menu__link">Learn</a><ul><li class="menu__item menu-67 menu-path-node-6 first odd "><a href="/content/competition" title="Everyone says they want more competition. Public Ownership offers the most promising path" class="menu__link">Competition</a></li>
+<li class="menu__item menu-4404 menu-path-node-6894  even "><a href="/content/correcting-community-fiber-fallacies-page" title="Responding to Misinformation" class="menu__link">Correcting Community Fiber Fallacies</a></li>
+<li class="menu__item menu-2194 menu-path-node-5708  odd "><a href="/content/municipal-networks-and-economic-development" title="Many resources on the intersection of economic development and municipal broadband networks" class="menu__link">Economic Development</a></li>
+<li class="menu__item menu-66 menu-path-node-5  even "><a href="/content/fiber-optic-network" title="Fiber is the future of community networks" class="menu__link">Fiber-Optics</a></li>
+<li class="menu__item menu-2224 menu-path-node-5703  odd "><a href="/content/institutional-networks" title="I-Nets for Community Anchor Institutions" class="menu__link">Institutional Networks</a></li>
+<li class="menu__item menu-395 menu-path-node-47  even "><a href="/content/level-playing-field-0" title="" class="menu__link">Level Playing Field</a></li>
+<li class="menu__item menu-2228 menu-path-node-5782  odd "><a href="/content/open-access" title="Explaining Open Access Municipal Networks" class="menu__link">Open Access</a></li>
+<li class="menu__item menu-273 menu-path-node-8  even "><a href="/content/public-accountability" title="Public Accountability" class="menu__link">Public Accountability</a></li>
+<li class="menu__item menu-4815 menu-path-node-6920 active-trail  odd "><a href="/content/rural-cooperatives-page" title="Telephone and electric cooperatives building advanced networks" class="menu__link active">Rural Cooperatives</a></li>
+<li class="menu__item menu-321 menu-path-node-73  even "><a href="/content/successes-and-failures" title="Successes and Failures" class="menu__link">Success / Failure</a></li>
+<li class="menu__item menu-68 menu-path-node-7  odd last"><a href="/content/wireless" title="Getting past the hype and discussing the best role for wireless technologies" class="menu__link">Wireless</a></li>
+</ul></li>
+<li class="menu__item menu-312 menuparent  menu-path-node-66  even "><a href="/content/resources" title="" class="menu__link">Resources</a><ul><li class="menu__item menu-1901 menu-path-broadbandbits first odd "><a href="/broadbandbits" title="Weekly audio show" class="menu__link">Broadband Bits Podcast</a></li>
+<li class="menu__item menu-1434 menu-path-node-1440  even "><a href="/communitymap" title="Map of community broadband networks in North America" class="menu__link">Community Broadband Map</a></li>
+<li class="menu__item menu-2125 menu-path-muninetworksorg-content-community-connectivity-toolkit  odd "><a href="http://muninetworks.org/content/community-connectivity-toolkit" title="Resources and Information to Start a Project" class="menu__link">Community Net Toolkit</a></li>
+<li class="menu__item menu-322 menu-path-node-82  even "><a href="/content/frequently-asked-questions" title="Frequently Asked Questions" class="menu__link">FAQ</a></li>
+<li class="menu__item menu-2014 menu-path-node-4628  odd "><a href="/fact-sheets" title="Short one and two-page PDFs with essential information about community owned networks" class="menu__link">Fact Sheets</a></li>
+<li class="menu__item menu-3637 menu-path-node-6551  even "><a href="/glossary" title="Definitions of Telecom Terms" class="menu__link">Glossary</a></li>
+<li class="menu__item menu-4047 menu-path-node-6251  odd "><a href="/content/municipal-ftth-networks" title="" class="menu__link">Muni FTTH Networks</a></li>
+<li class="menu__item menu-288 menu-path-quotes  even "><a href="/quotes" title="" class="menu__link">Quotes</a></li>
+<li class="menu__item menu-289 menu-path-reports  odd "><a href="/reports" title="" class="menu__link">Reports</a></li>
+<li class="menu__item menu-1607 menu-path-node-3021  even last"><a href="/content/videos" title="Videos dealing with Community-owned Broadband Networks" class="menu__link">Videos</a></li>
+</ul></li>
+<li class="menu__item menu-3193 menu-path-broadbandbits  odd "><a href="/broadbandbits" title="" class="menu__link">Podcast</a></li>
+<li class="menu__item menu-3194 menu-path-node-3021  even last"><a href="/content/videos" title="" class="menu__link">Videos</a></li>
+</ul>
+
+</div>
+<div class="block block-block even" id="block-block-16">
+
+      
+  		<ul class="socialmedia">
+<!--<li class="subscribe"><a title="Subscribe to MuniNetworks" href="/content/sign-newsletters">Subscribe.</a></li>-->
+			<li class="fb"><a href="https://www.facebook.com/communitybroadband" title="Muninetworks on Facebook">Facebook</a></li>
+			<li class="tw"><a href="https://www.twitter.com/communitynets" title="Follow us @communitynets">@communitynets</a></li>
+		</ul>
+</div>
+<div class="block block-menu last odd" role="navigation" id="block-menu-menu-left-navigation-lower">
+
+        <h2 class="block__title">Left Navigation Lower</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/content/sign-newsletters" title="" class="menu__link">Subscribe</a></li>
+<li class="menu__item is-leaf leaf"><a href="/content/about-us" title="" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="/press-center" title="" class="menu__link">Press Center</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/content/support-muninetworksorg-donation" title="Support our work with a tax-deductible donation today." class="menu__link">Donate</a></li>
+</ul>
+</div>
+  </div>
+
+    </div>
+  </div>
+
+  <div id="main">
+
+    <div id="content" class="column" role="main">
+            <nav class="breadcrumb" role="navigation"><h2 class="breadcrumb__title">You are here</h2><ol class="breadcrumb__list"><li class="breadcrumb__item"><a href="/">Home</a><span class="breadcrumb__separator"> › </span></li><li class="breadcrumb__item"><a href="/content/key-points" title="">Learn</a></li></ol></nav>      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Cooperatives Build Community Networks</h1>
+      
+      
+            
+
+
+<article class="node-6920 node node-page view-mode-full  clearfix">
+
+
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><style>
+<!--/*--><![CDATA[/* ><!--*/
+
+
+table.electricTable th, td { 
+
+border: align: center; text-align: center; padding: 5px;
+
+} 
+
+table.electricTable th { 
+
+background-color: #EBD271;
+
+
+} 
+
+table.gigTable tbody tr:nth-child(even){
+
+background-color: #FFEBAO;
+
+}
+
+table.electricTable tbody tr:nth-child(odd){
+
+background-color: #fff9E4;
+
+}
+
+
+
+
+table.gigTable th, td { 
+
+border: align: center; text-align: center; padding: 5px;
+
+} 
+
+table.gigTable th { 
+
+background-color: #2B7E6B;
+color: #ffffff;
+
+
+} 
+
+table.gigTable tbody tr:nth-child(even){
+
+background-color: #A5D7CC;
+
+}
+
+table.gigTable tbody tr:nth-child(odd){
+
+background-color: #D7F0EA;
+
+}
+
+
+
+
+table.podTable th, td { 
+
+border: align: center; text-align: center; padding: 5px;
+
+} 
+
+table.podTable th { 
+
+background-color: #FF7A53;
+
+
+} 
+
+table.podTable tbody tr:nth-child(even){
+
+background-color: #d9eaf1; 
+
+}
+
+table.podTable tbody tr:nth-child(odd){
+
+background-color: #f7f7f7;
+
+}
+
+
+
+#coopMenu ul{
+
+
+
+margin: 0;
+
+
+
+padding: 0;
+
+
+
+list­-style-­type: none;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+div.coopMenu1{ 
+padding: 5px;
+background-color: #2A467C;
+text-align: center;
+}
+
+
+div.coopMenu2 { 
+background-color: #657B9B;
+text-align: right;
+}
+
+div.coopMenu1 a{
+color: #fff;
+}
+
+div.coopMenu2 a{
+color: #fff;
+}
+
+div.coopMenu1 a:hover{
+background-color: #1a75bc;
+}
+
+div.coopMenu2 a:hover{
+background-color: #1a75bc;
+}
+
+img.state {
+width: 150px;
+height: 150px;
+}
+
+
+/*--><!]]>*/
+</style><p><img src="https://muninetworks.org/sites/www.muninetworks.org/files/2018-06-Cooperative-Gigabit-Fiber-Map-Update.jpg" alt="https://muninetworks.org/sites/www.muninetworks.org/files/2017-Cooperative-Gigabit-Fiber-Map" width="1200" height="821" /></p>
+<p> </p>
+<p> </p>
+<p>Cooperatives around the country have built on their long legacy of delivering essential infrastructure by starting to deliver next-generation Internet services. Here, we cover the basics of cooperatives in rural areas and then discuss the details of electric and telephone cooperatives that have already branched out into Internet service. Finally, we highlight the first Internet fiber optic cooperative and discuss how other communities have better Internet service through building their own networks.</p>
+<div style="clear: both;">
+<p>Read the full policy brief <a title="link to policy brief" href="https://ilsr.org/the-fiber-future-is-cooperative-policy-brief-on-rural-cooperative-fiber-deployment/"><em><strong>Cooperatives Fiberize Rural America: A Trusted Model for the Internet Era</strong></em></a> on <a title="link to ilsr.org" href="https://ilsr.org/">ILSR.org</a>. </p>
+<p><a title="link to fiber cooperative map" href="https://muninetworks.org/sites/www.muninetworks.org/files/2018-06-Cooperative-Gigabit-Fiber-Map-Update.jpg">Fiber cooperative map updated June 2018 available here.</a></p>
+</div>
+<div class="alignleft" style="width: 340px;">
+<p><strong>Quick Links:</strong></p>
+<div class="coopMenu1"><a href="#whyCoops">Why Rural Cooperatives</a></div>
+<div class="coopMenu2"><a href="#ruralpubpol">Rural Public Policies</a> </div>
+<div class="coopMenu1"><a href="#electricCoops">Electric Cooperatives</a></div>
+<div class="coopMenu2"><a href="#electricRead">Articles and Interviews</a> </div>
+<div class="coopMenu2"><a href="#electricList">List of Fiber Projects</a> </div>
+<div class="coopMenu1"><a href="#telephoneCoops">Telephone Cooperatives</a></div>
+<div class="coopMenu2"><a href="#telephoneRead">Articles and Interviews</a> </div>
+<div class="coopMenu1"><a href="#internetCoop">The First Internet Cooperative</a></div>
+<div class="coopMenu2"><a href="#coopVideo">Videos</a> </div>
+<div class="coopMenu1"><a href="#coopResources">More Resources</a></div>
+<div class="coopMenu2"><a href="#gigList">List of Gigabit Cooperatives</a> </div>
+<div class="coopMenu2"><a href="#coopsPodcast">Community Broadband Bits Podcasts</a> </div>
+</div>
+<h2><a name="whyCoops" id="whyCoops"></a>Why Rural Cooperatives?</h2>
+<p>Cooperatives are part of the fabric of rural America. The member owners control the cooperative: each person receiving service is a member of the cooperative and can directly vote in elections for the Board of Directors or even become a member of the Board.  </p>
+<p>Starting in the 1930s, the U.S. Department of Agriculture supported communities as they created more than 900 electric cooperatives across the country.  In the 1950s, the federal government again supported communities building telephone networks, crisscrossing the country with telephone cooperatives to connect rural communities.</p>
+<p>Each technology brought new markets, revitalized economies, and revolutionized industries. Cooperatives have a long history of building and maintaining essential infrastructure and providing excellent service in rural communities. Now they have the chance to do that again by building next-generation networks for Internet service.</p>
+<p> </p>
+<h2><strong><a name="ruralpubpol" id="ruralpubpol"></a>Rural Public Policies</strong></h2>
+<p><img class="alignright" src="https://muninetworks.org/sites/www.muninetworks.org/files/Minnesota_House_Chamber.jpg" alt="Minnesota House Chambers" />Rural areas face a number of challenges that urban and suburban communities do not.  Low population density coupled with rough terrain can make building infrastructure challenging. Added to these factors, rural communities may not have access to the same financial resources as larger towns and cities do. </p>
+<p>Cooperatives, however, have made infrastructure projects work in rural communities for nearly a century.  They have access to funding from their membership base, local banks, and often the federal government. Some state governments have expanded their broadband grant and loan programs to include electric cooperatives. Other states have clarified laws and policies to recognize that electric cooperatives can build fiber networks for Internet service using their current infrastructure. A few states, however, have hurdles that stymy investments by electric cooperatives. Technically, the 1996 Telecommunications Act, Section 253, prohibits states from stopping any co-op from offering Internet service, but co-ops in many states are loathe to challenge state law in court.</p>
+<div style="clear: both;">
+<p><img class="state alignleft" src="https://muninetworks.org/sites/www.muninetworks.org/files/seal-north-carolina.jpg" alt="seal of north carolina" /></p>
+<h3>North Carolina</h3>
+<p>The state government prevents electric cooperatives from using USDA funding for non-electrical purposes. In our 2016 report, <a title="link to report" href="https://muninetworks.org/reports/north-carolina-connectivity-good-bad-and-ugly">North Carolina Connectivity: the Good, the Bad, and the Ugly</a>, we highlight how the state’s electric cooperatives could provide service to many unserved and underserved rural communities throughout North Carolina. </p>
+</div>
+<div style="clear: both;">
+<h3><img class="state alignleft" src="/sites/www.muninetworks.org/files/seal-tennessee.png" alt="Tennessee Seal" />Tennessee</h3>
+<p>In 2017, this state has <a title="link to tn times free press article" href="http://www.timesenterprise.com/news/state_news/emcs-could-help-fill-broadband-gaps/article_4336b9fd-49f3-5415-bb85-1e447ce0b89b.html">clarified the language in its laws</a> to allow electric cooperatives to build networks for Internet service. </p>
+</div>
+<div style="clear: both;">
+<p><img class="state alignleft" src="/sites/www.muninetworks.org/files/seal-indiana.jpg" alt="Indiana Seal" /></p>
+<h3>Indiana</h3>
+<p>Cooperatives already have access to the utility poles, easements, and rights-of-way throughout the communities that they serve. Indiana, however, needed to clarify that electric cooperatives can indeed use this access to provide Internet service. Indiana <a title="link to fibre act story" href="https://muninetworks.org/content/indiana-eases-easements-electric-co-ops-fibre-act">passed the FIBRE Act</a> to ensure that the state was not preventing electric cooperatives from providing Internet service. </p>
+</div>
+<div style="clear: both;">
+<p><img class="state alignleft" src="https://muninetworks.org/sites/www.muninetworks.org/files/seal-minnesota.jpg" alt="seal of Minnesota" /></p>
+<h3>Minnesota &amp; Colorado</h3>
+<p>Minnesota and Colorado have made funding easier to access for cooperatives interested in providing Internet service. Both states have designed grant programs that promote local solutions to connectivity problems. In Minnesota, <a title="link to fact sheet on mn co-ops" href="https://muninetworks.org/content/fact-sheet-rural-digital-divide-minnesota">cooperatives provide most of the Fiber-to-the-Home Internet service</a> thanks in no small part to that grant program. </p>
+</div>
+<div style="clear: both; border: 2px solid black; padding: 10px; background-color: #d9eaf1;">
+<p><em><strong>Overbuild Or Underbuild?</strong></em></p>
+<p>In Community Broadband Bits Podcast Episode 91, Christopher Mitchell and Lisa Gonzalez discusses strategies for building Internet infrastructure in rural are. What do communities need to thrive? </p>
+<p><strong><a title="link to episode 91" href="http://muninetworks.org/content/overbuild-or-underbuild-rural-policy-conundrum-community-broadband-bits-podcast-91">Listen to the podcast.</a></strong></p>
+</div>
+<p> </p>
+<h2><a name="electricCoops" id="electricCoops"></a>Electric Cooperatives</h2>
+<p>More than 900 rural electric cooperatives provide electricity to about 12 percent of the U.S. population. Their service area, however, covers more than half of the total land, nearly 2 million square miles. About 50 rural electric co-ops have embarked on fiber optic projects to increase Internet access for their members. </p>
+<p>Several of these electric cooperatives started by building fiber optic lines to substations and large demand centers to increase the reliability of the electric system through better monitoring. This could then form the backbone of a network for Internet service to businesses and residents. </p>
+<p> </p>
+<h3><a name="electricRead" id="electricRead"></a>Articles and Interviews</h3>
+<p>We have written many articles and collected several reports detailing how electric cooperatives have tried to increase Internet access in their communities. These stories show the many different ways electric cooperatives have structured partnerships and programs for their members.</p>
+<p><img style="float: right;" src="https://muninetworks.org/sites/www.muninetworks.org/files/pixabay-telephone-pole-public.jpg" alt="electric/telephone utility pole" width="206" height="426" />Several electric cooperatives provide Internet service themselves. Some started pilot projects, while others built out to their entire service area. The Fiber-to-the-Home project by Valley Electric Association boosted the local economy in Pahrump, Nevada. The co-op has already <a title="link to valley electric story" href="https://muninetworks.org/content/nevada-electric-coop-gets-fiber-creates-jobs">added 31 new jobs</a> because of the fiber service. </p>
+<p>Others partner with an existing telephone cooperative or telephone company. <a title="link to ouachita story" href="https://muninetworks.org/content/arkansas-utility-leads-energy-broadband">Ouachita Electric in Arkansas</a> is one of the many cooperatives to have done this. By combining their resources and expertise, this partnership is able to extend electric and Internet service throughout much of southern Arkansas.</p>
+<p>Many electric cooperatives work together, such as <a title="link to sho me power story" href="https://muninetworks.org/content/sho-me-your-fixed-wireless-houston-mo">Sho-Me Power in Missouri</a> and <a title="link to LS Networks story" href="https://muninetworks.org/content/rural-electric-co-ops-power-gig-pacific-northwest">LS Networks in Oregon</a>. These cooperatives have provided connectivity for local ISPs and businesses, and now are looking to connect residents.  </p>
+<p>In <a title="link to episode 229" href="https://muninetworks.org/content/rural-electrics-solve-rural-internet-access-problems-community-broadband-bits-podcast-229">episode 229</a> of the Community Broadband Bits podcast, Jon Chambers, the former head of the FCC Office of Strategic Planning and Policy Analysis, describes how electric cooperatives have the potential to bring Internet access to unserved rural America. </p>
+<p>Mel Coleman, president of NRECA and CEO of North Arkansas Electric Cooperative, joined the podcast in <a title="link to episode 243" href="https://muninetworks.org/content/whats-next-north-arkansas-community-broadband-bits-podcast-243">episode 243</a> to discuss how the electric co-op had improved Internet access for its members and what other cooperatives are doing.</p>
+<p><a title="Link to rural electric tag" href="https://muninetworks.org/tags/tags/rural-electric-coop">Find more in our archives.</a></p>
+<p> </p>
+<h3><a name="electricList" id="electricList"></a>List of Fiber Projects</h3>
+<p>This is a list of the rural electric cooperatives that have programs and projects to increase connectivity in their service areas. They do not all provide Fiber-to-the-Home. Some only offer fiber connections to businesses while others focus on dark fiber and fiber transport services for other Internet Service Providers. (Total: 69) (Last updated: 09/2018)</p>
+<table class="electricTable"><tbody><tr><th><strong>Electric Cooperative</strong></th>
+<th><strong>State</strong></th>
+<th><strong>Project</strong></th>
+</tr><tr><td>
+<p>North Alabama Electric Cooperative</p>
+</td>
+<td>
+<p>Alabama</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Tombigbee Electric Cooperative (freedom FIBER)</p>
+</td>
+<td>
+<p>Alabama</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Craighead Electric Cooperative Corporation (Empower)</p>
+</td>
+<td>
+<p>Arkansas</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>North Arkansas Electric Co-op (NEXT)</p>
+</td>
+<td>
+<p>Arkansas</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Ouachita Electric Co-op (ARIS)</p>
+</td>
+<td>
+<p>Arkansas</p>
+</td>
+<td>
+<p>FTTH; collaboration with telephone company</p>
+</td>
+</tr><tr><td>
+<p>Ozarks Electric Cooperative (OzarksGo)</p>
+</td>
+<td>
+<p>Arkansas</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>South Central Electric Cooperative (South Central Connect)</p>
+</td>
+<td>
+<p>Arkansas</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Anza Electric Co-op, Inc.</p>
+</td>
+<td>
+<p>California</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Plumas-Sierra REC (Plumas-Sierra Telecommunications)</p>
+</td>
+<td>
+<p>California</p>
+</td>
+<td>
+<p>Fiber backbone with wireless</p>
+</td>
+</tr><tr><td>
+<p>San Luis Valley REC (Ciello)</p>
+</td>
+<td>
+<p>Colorado</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Delta-Montrose Electric Association (Elevate Fiber)</p>
+</td>
+<td>
+<p>Colorado</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Southeast Colorado Power Association (SECOM)</p>
+</td>
+<td>
+<p>Colorado</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Blue Ridge Mountain EMC</p>
+</td>
+<td>
+<p>Georgia &amp; <br /> North Carolina</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Habersham Electric Membership Corporation (Trailwave, North Georgia Network Cooperative)</p>
+</td>
+<td>
+<p>Georgia</p>
+</td>
+<td>
+<p>FTTH; FTTB and Schools</p>
+</td>
+</tr><tr><td>
+<p>Jackson County REMC (Jackson Connect)</p>
+</td>
+<td>
+<p>Indiana</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Johnson County REMC</p>
+</td>
+<td>
+<p>Indiana</p>
+</td>
+<td>
+<p>FTTH Pilot Project</p>
+</td>
+</tr><tr><td>
+<p>NineStar Connect (merger between Central Indiana Power and Hancock Telecom)</p>
+</td>
+<td>
+<p>Indiana</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Orange County REMC</p>
+</td>
+<td>
+<p>Indiana</p>
+</td>
+<td>
+<p>FTTH (announced)</p>
+</td>
+</tr><tr><td>
+<p>South Central Indiana REMC</p>
+</td>
+<td>
+<p>Indiana</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Great Lakes Energy (Truestream)</p>
+</td>
+<td>
+<p>Michigan</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Midwest Energy Cooperative (Midwest Energy and Communications)</p>
+</td>
+<td>
+<p>Michigan</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Tri-County Electric Cooperative (HomeWorks Connect)</p>
+</td>
+<td>
+<p>Michigan</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Arrowhead Electric Cooperative (True North Broadband)</p>
+</td>
+<td>
+<p>Minnesota</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Mille Lacs Energy Cooperative (XStream Internet)</p>
+</td>
+<td>
+<p>Minnesota</p>
+</td>
+<td>
+<p>FTTH; collaboration with telephone cooperative CTC</p>
+</td>
+</tr><tr><td>
+<p>Barry Electric Cooperative (goBEC)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Callaway Electric (Callabyte Technology)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH; collaboration with Kingdom Telephone Cooperative</p>
+</td>
+</tr><tr><td>
+<p>Co-Mo Electric Co-op (Co-Mo Connect)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Ralls County Electric Cooperative (Ralls Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>SEMO Electric Cooperative (GoSEMO Fiber)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>United Electric Cooperative (United Fiber)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Crawford Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Gascoasage Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Howell-Oregon Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Intercounty Electric Cooperative Association / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Laclede Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Se-Ma-No Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Southwest Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Webster Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>White River Valley Electric Cooperative / Sho-Me Power Electric Cooperative (Sho-Me Technologies)</p>
+</td>
+<td>
+<p>Missouri</p>
+</td>
+<td>
+<p>FTTB &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>French Broad Electric Membership Corporation</p>
+</td>
+<td>
+<p>North Carolina</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Lumbee River Electric Membership Corporation (Bluewave Communications NC)</p>
+</td>
+<td>
+<p>North Carolina</p>
+</td>
+<td>
+<p>FTTH; collaboration with telephone cooperative Horry Telephone Cooperative</p>
+</td>
+</tr><tr><td>
+<p>Roanoke Electric Cooperative (Roanoke Connect)</p>
+</td>
+<td>
+<p>North Carolina</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Continental Divide Electric Cooperative (Red Bolt Broadband)</p>
+</td>
+<td>
+<p>New Mexico</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Kit Carson Electric Cooperative (Kit Carson Internet)</p>
+</td>
+<td>
+<p>New Mexico</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Delaware County Electric Cooperative</p>
+</td>
+<td>
+<p>New York</p>
+</td>
+<td>
+<p>FTTH; collaboration with telephone companies</p>
+</td>
+</tr><tr><td>
+<p>Otsego Electric Cooperative (OEConnect)</p>
+</td>
+<td>
+<p>New York</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Consolidated Electric Cooperative</p>
+</td>
+<td>
+<p>Ohio</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Lake Region Electric Cooperative (Lake Region Technology &amp; Communications)</p>
+</td>
+<td>
+<p>Oklahoma</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Northeast Oklahoma Electric Co-op (Bolt Fiber Optic Services)</p>
+</td>
+<td>
+<p>Oklahoma</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Oklahoma Electric Cooperative</p>
+</td>
+<td>
+<p>Oklahoma</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Central Electric Cooperative (LS Networks)</p>
+</td>
+<td>
+<p>Oregon</p>
+</td>
+<td>
+<p>FTTB, Schools, &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Douglas Electric Coop (Douglas Fast Net, LS Networks)</p>
+</td>
+<td>
+<p>Oregon</p>
+</td>
+<td>
+<p>FTTH; FTTB, Schools, &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Hood River Electric Co-op (CACHE Communications, LS Networks)</p>
+</td>
+<td>
+<p>Oregon</p>
+</td>
+<td>
+<p>FTTH; FTTB, Schools, &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Umatilla Electric Cooperative (LS Networks)</p>
+</td>
+<td>
+<p>Oregon</p>
+</td>
+<td>
+<p>FTTB, Schools, &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>West Oregon Electric Cooperative (LS Networks)</p>
+</td>
+<td>
+<p>Oregon</p>
+</td>
+<td>
+<p>FTTB, Schools, &amp; Transport Services</p>
+</td>
+</tr><tr><td>
+<p>Tri-County Rural Electric Cooperative</p>
+</td>
+<td>
+<p>Pennsylvania</p>
+</td>
+<td>
+<p>FTTH (announced)</p>
+</td>
+</tr><tr><td>
+<p>Mid-Carolina Electric Cooperative (Carolina Connect)</p>
+</td>
+<td>
+<p>South Carolina</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Newberry Electric Cooperative (Carolina Connect)</p>
+</td>
+<td>
+<p>South Carolina</p>
+</td>
+<td>
+<p>FTTH (announced)</p>
+</td>
+</tr><tr><td>
+<p>Appalachian Electric Cooperative</p>
+</td>
+<td>
+<p>Tennessee</p>
+</td>
+<td>
+<p>Dark Fiber</p>
+</td>
+</tr><tr><td>
+<p>Gibson Electric Membership Corporation (Gibson Connect)</p>
+</td>
+<td>
+<p>Tennessee</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Tri-County Electric Cooperative</p>
+</td>
+<td>
+<p>Tennessee</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Bandera Electric Cooperative (BEC Fiber)</p>
+</td>
+<td>
+<p>Texas</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Grayson Collin Electric Cooperative (Grayson Collin Communications)</p>
+</td>
+<td>
+<p>Texas</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Guadalupe Valley Electric Cooperative</p>
+</td>
+<td>
+<p>Texas</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>BARC Electric Cooperative (BARC Connects)</p>
+</td>
+<td>
+<p>Virginia</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr><tr><td>
+<p>Central Virginia Electric Cooperative (Firefly Broadband)</p>
+</td>
+<td>
+<p>Virginia</p>
+</td>
+<td>
+<p>FTTH (announced)</p>
+</td>
+</tr><tr><td>
+<p>Prince George Electric Cooperative</p>
+</td>
+<td>
+<p>Virginia</p>
+</td>
+<td>
+<p>FTTH (under construction)</p>
+</td>
+</tr><tr><td>
+<p>Columbia Rural Electric Association (Columbia Energy)</p>
+</td>
+<td>
+<p>Washington</p>
+</td>
+<td>
+<p>FTTH Pilot Project</p>
+</td>
+</tr><tr><td>
+<p>Orcas Power &amp; Light Co-op (Rock Island Communications)</p>
+</td>
+<td>
+<p>Washington</p>
+</td>
+<td>
+<p>FTTH</p>
+</td>
+</tr></tbody></table><p> </p>
+<h2><a name="telephoneCoops" id="telephoneCoops"></a>Telephone Cooperatives</h2>
+<p>There are about 260 telephone cooperatives in the United States. Many provide Internet service as a natural extension of their existing infrastructure. Many started out by providing dial-up and DSL services, but only recently have begun to transition to Fiber-to-the-Home. Some have already transitioned to an all-fiber network, having upgraded everyone in their territory to fiber.</p>
+<p>The Rural Broadband Association (NTCA) has a <a title="link to gig certified program" href="https://www.ntca.org/awards-recognition-programs/gig-certification.html">gigabit certification program</a> in order to draw attention to how many small telephone companies cooperatives have built these next-generation networks. </p>
+<h3><a name="telephoneRead" id="telephoneRead"></a>Articles &amp; Interviews</h3>
+<p>We have featured a number of these cooperatives on our website. Some cooperatives choose to work with local governments or electric cooperatives while others focus on providing service alone. Below is just a small selection of the many cooperatives that have built Fiber-to-the-Home networks. <img style="float: right;" src="https://muninetworks.org/sites/www.muninetworks.org/files/Pixabay-road-telephone.jpg" alt="image of telephone poles" width="200" height="429" /></p>
+<p>In Michigan, a rural telephone cooperative got its start in the early 2000s. The community went from sparse telephone service to state-of-the-art Internet service. <a title="link to allband story here" href="https://muninetworks.org/content/rural-telephone-cooperative-forges-its-own-path-michigan">Read more about Allband Communications Cooperatives unique story here.</a></p>
+<p>Paul Bunyan Communications Cooperative in Minnesota has <a title="link to to paul bunyan story" href="https://muninetworks.org/content/gigabit-speed-red-lake-nation-minnesota">expanded their GigaZone</a> throughout the northern half of the state, including Red Lake Nation.</p>
+<p>In Missouri, <a title="link to electric coop story" href="https://muninetworks.org/content/electric-and-telephone-cooperatives-team">Callaway Electric Cooperative and Kingdom Telephone Company</a> (the local telephone co-op) teamed up to form a new company together called Callabyte Technology to deliver Fiber-to-the-Home service.</p>
+<p><a title="link to wilkes podcast" href="http://muninetworks.org/content/north-carolina-coop-fibers-rural-counties-and-more-community-broadband-bits-podcast-188">Episode 188</a> of the Community Broadband Bits Podcast features Eric Cramer, the President and CEO of Wilkes Communications/RiverStreet Networks. He explained how the telephone cooperative has built a Fiber-to-the-Home network throughout several counties in northern North Carolina.</p>
+<p><a title="link to cooperative tag" href="https://muninetworks.org/tags/tags/cooperative">Read more in our archives.</a></p>
+<p> </p>
+<h2><a name="internetCoop" id="internetCoop"></a>The First Internet Cooperative</h2>
+<p>Cooperatives are not just telephone and electric. There is now a workable model for Internet cooperatives created from scratch. RS Fiber in Minnesota is the first cooperative formed for the express purpose of providing reliable, high-speed Internet service. </p>
+<p style="text-align: left;">We have extensive coverage of how RS Fiber started and the rural communities they have connected. Read more in our report <a title="link to RS Fiber report" href="https://muninetworks.org/reports/rs-fiber-fertile-fields-new-rural-internet-cooperative">RS Fiber Fertile Fields: New Rural Internet Cooperative</a>.</p>
+<p><a name="coopVideo" id="coopVideo"></a></p>
+<p style="text-align: center;">
+<iframe src="https://www.youtube.com/embed/videoseries?list=PL9UXYi7CgvYccbj4PK_IlyEkZF7LkEnG3" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+<p> </p>
+<h2><a name="coopResources" id="coopResources"></a>More Resources</h2>
+<h3><a name="gigList" id="gigList"></a>List of Gigabit Cooperatives</h3>
+<p>These cooperatives offer gigabit speeds to members within their service areas. (Total: 105) (Last updated: 9/2018)</p>
+<table class="gigTable"><tbody><tr><th>Gigabit Cooperative</th>
+<th>State</th>
+<th>Type</th>
+</tr><tr><td>Ace Telephone Association (Ace Communications or AcenTek)</td>
+<td>Minnesota, Michigan, Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Adams Telephone Cooperative</td>
+<td>Illinois</td>
+<td>Telephone</td>
+</tr><tr><td>Albany Mutual Telephone Association</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Atlantic Telephone Membership Corporation</td>
+<td>North Carolina</td>
+<td>Telephone</td>
+</tr><tr><td>Bandera Electric Cooperative (BEC Fiber)</td>
+<td>Texas</td>
+<td>Electric</td>
+</tr><tr><td>Barry Electric Cooperative (goBEC)</td>
+<td>Missouri</td>
+<td>Electric</td>
+</tr><tr><td>Ben Lomand Rural Telephone Cooperative (Ben Lomand Connect)</td>
+<td>Tennesseee</td>
+<td>Telephone</td>
+</tr><tr><td>Bledsoe Telephone Cooperative</td>
+<td>Tennesseee</td>
+<td>Telephone</td>
+</tr><tr><td>Bulloch Telephone Cooperative</td>
+<td>Georgia</td>
+<td>Telephone</td>
+</tr><tr><td>Callaway Electric Cooperative, in collaboration with Kingdom Telephone Cooperative (Callabyte Technology)</td>
+<td>Missouri</td>
+<td>Electric and telephone</td>
+</tr><tr><td>Canby Telephone Association (DirectLink)</td>
+<td>Oregon</td>
+<td>Telephone</td>
+</tr><tr><td>Chequamegon Communications Cooperative (Norvado)</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Citizens Mutual Telephone Cooperative</td>
+<td>Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Citizens Telephone Cooperative</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Clay County Rural Telephone Cooperative (Endeavor Communications)</td>
+<td>Indiana</td>
+<td>Telephone</td>
+</tr><tr><td>Co-Mo Electric Cooperative (Co-Mo Connect)</td>
+<td>Missouri</td>
+<td>Electric</td>
+</tr><tr><td>Cochrane Cooperative Telephone Company</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Columbus Telephone (Optic Communications)</td>
+<td>Kansas</td>
+<td>Telephone</td>
+</tr><tr><td>Consolidated Electric Cooperative</td>
+<td>Ohio</td>
+<td>Electric</td>
+</tr><tr><td>Consolidated Telephone Company (CTC)</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Craw Kan Telephone Cooperative</td>
+<td>Kansas</td>
+<td>Telephone</td>
+</tr><tr><td>Danville Mutual Telephone Company</td>
+<td>Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Delta-Montrose Electric Association (Elevate Fiber)</td>
+<td>Colorado</td>
+<td>Electric</td>
+</tr><tr><td>Dickey Rural Telephone Cooperative</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Douglas Electric Cooperative (Douglas Fast Net)</td>
+<td>Oregon</td>
+<td>Electric</td>
+</tr><tr><td>Eastern New Mexico Rural Telephone Cooperative (Plateau Telecommunications)</td>
+<td>New Mexico</td>
+<td>Telephone</td>
+</tr><tr><td>Eastern Oregon Telecom</td>
+<td>Oregon</td>
+<td>Telephone</td>
+</tr><tr><td>Emery Telcom</td>
+<td>Utah</td>
+<td>Telephone</td>
+</tr><tr><td>Farmers Cooperative Telephone Company</td>
+<td>Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Farmers Mutual Telephone Company</td>
+<td>Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Farmers Telecommunications Cooperative</td>
+<td>Alabama</td>
+<td>Telephone</td>
+</tr><tr><td>Farmers Telephone Cooperative</td>
+<td>South Carolina</td>
+<td>Telephone</td>
+</tr><tr><td>Garden Valley Telephone Company (Garden Valley Technologies)</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Gardonville Cooperative Telephone Association</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Gervais Telephone Company (DataVision Cooperative)</td>
+<td>Oregon</td>
+<td>Telephone</td>
+</tr><tr><td>Grayson Collin Electric Cooperative (Grayson Collin Communications)</td>
+<td>Texas</td>
+<td>Electric</td>
+</tr><tr><td>Guadalupe Valley Electric Cooperative</td>
+<td>Texas</td>
+<td>Electric</td>
+</tr><tr><td>Guadalupe Valley Telephone Cooperative</td>
+<td>Texas</td>
+<td>Telephone</td>
+</tr><tr><td>Habersham Electric Membership Corporation (Trailwave, North Georgia Network Cooperative)</td>
+<td>Georgia</td>
+<td>Electric</td>
+</tr><tr><td>Halstad Telephone Company</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Hill Country Telephone Cooperative</td>
+<td>Texas</td>
+<td>Telephone</td>
+</tr><tr><td>Kingdom Telephone Company, in collaboration with Callaway Electric Cooperative (Callabyte Technology)</td>
+<td>Missouri</td>
+<td>Electric and telephone</td>
+</tr><tr><td>LaValle Telephone Cooperative</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Matanuska Telephone Association</td>
+<td>Alaska</td>
+<td>Telephone</td>
+</tr><tr><td>McDonough Telephone Cooperative</td>
+<td>Illinois</td>
+<td>Telephone</td>
+</tr><tr><td>Mid Century Telephone Cooperative (Mid Century Communications)</td>
+<td>Illinois</td>
+<td>Telephone</td>
+</tr><tr><td>Mid-Carolina Electric Cooperative (Carolina Connect)</td>
+<td>South Carolina</td>
+<td>Electric</td>
+</tr><tr><td>Midwest Energy Cooperative (Midwest Energy and Communications)</td>
+<td>Michigan</td>
+<td>Electric</td>
+</tr><tr><td>Mille Lacs Energy Cooperative (XStream Internet)</td>
+<td>Minnesota</td>
+<td>Electric and telephone</td>
+</tr><tr><td>Molalla Telephone Company (Molalla Communications)</td>
+<td>Oregon</td>
+<td>Telephone</td>
+</tr><tr><td>Mountain Rural Telephone Cooperative Corporation</td>
+<td>Kentucky</td>
+<td>Telephone</td>
+</tr><tr><td>Nemont Telephone Cooperative</td>
+<td>Montana</td>
+<td>Telephone</td>
+</tr><tr><td>New Lisbon Telephone Company</td>
+<td>Indiana</td>
+<td>Telephone</td>
+</tr><tr><td>NineStar Connect (merger between Central Indiana Power and Hancock Telecom)</td>
+<td>Indiana</td>
+<td>Electric and telephone</td>
+</tr><tr><td>North Alabama Electric Cooperative</td>
+<td>Alabama</td>
+<td>Electric</td>
+</tr><tr><td>North Arkansas Electric Co-op (NEXT)</td>
+<td>Arkansas</td>
+<td>Electric</td>
+</tr><tr><td>North Central Telephone Cooperative</td>
+<td>Tennessee and Kentucky</td>
+<td>Telephone</td>
+</tr><tr><td>North Dakota Telephone Company</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Northeast Oklahoma Electric Co-op (Bolt Fiber Optic Services)</td>
+<td>Oklahoma</td>
+<td>Electric</td>
+</tr><tr><td>Northwest Communications Cooperative</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Orcas Power &amp; Light Co-op (Rock Island Communications)</td>
+<td>Washington</td>
+<td>Electric</td>
+</tr><tr><td>Ouachita Electric Cooperative (ARIS)</td>
+<td>Arkansas</td>
+<td>Electric</td>
+</tr><tr><td>Ozarks Electric Cooperative (OzarksGo)</td>
+<td>Arkansas</td>
+<td>Electric</td>
+</tr><tr><td>Paul Bunyan Rural Telephone Cooperative</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>Peak Internet (Pioneer Consolidated, Consumers Power, and Stayton Cooperative Telephone Company)</td>
+<td>Oregon</td>
+<td>Electric and telephone</td>
+</tr><tr><td>Peoples Rural Telephone Cooperative</td>
+<td>Kentucky</td>
+<td>Telephone</td>
+</tr><tr><td>Peoples Telecommunications</td>
+<td>Kansas</td>
+<td>Telephone</td>
+</tr><tr><td>Phillips County Telephone Company (PC Telcom)</td>
+<td>Colorado</td>
+<td>Telephone</td>
+</tr><tr><td>Pineland Telephone Cooperative</td>
+<td>Georgia</td>
+<td>Telephone</td>
+</tr><tr><td>Polar Communications Mutual Aid Corporation</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Red River Rural Telephone Association</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Reservation Telephone Cooperative</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Richland-Grant Telephone Cooperative</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Rural Telephone Service Cooperative (Nex-Tech)</td>
+<td>Kansas</td>
+<td>Telephone</td>
+</tr><tr><td>San Luis Valley REC (Ciello)</td>
+<td>Colorado</td>
+<td>Electric</td>
+</tr><tr><td>SEMO Electric Cooperative (GoSEMO Fiber)</td>
+<td>Missouri</td>
+<td>Electric</td>
+</tr><tr><td>Skyline Telephone Membership Corporation (SkyBest Communications)</td>
+<td>North Carolina</td>
+<td>Telephone</td>
+</tr><tr><td>South Central Arkansas Electric Cooperative (South Central Connect)</td>
+<td>Arkansas</td>
+<td>Electric</td>
+</tr><tr><td>South Central Rural Telephone Cooperative</td>
+<td>Kentucky</td>
+<td>Telephone</td>
+</tr><tr><td>South Central Utah Telephone Association (South Central Communications)</td>
+<td>Utah</td>
+<td>Telephone</td>
+</tr><tr><td>Southwest Arkansas Telephone Cooperative</td>
+<td>Arkansas</td>
+<td>Telephone</td>
+</tr><tr><td>Springville Cooperative Telephone Association</td>
+<td>Iowa</td>
+<td>Telephone</td>
+</tr><tr><td>Tombigbee Electric Cooperative (freedom FIBER)</td>
+<td>Alabama</td>
+<td>Electric</td>
+</tr><tr><td>Twin Lakes Telephone Cooperative Corporation</td>
+<td>Tennessee</td>
+<td>Telephone</td>
+</tr><tr><td>UBTA-UBET Communications, also known as Strata Networks</td>
+<td>Colorado, Utah, and Wyoming</td>
+<td>Telephone</td>
+</tr><tr><td>United Electric Cooperative (United Fiber)r</td>
+<td>Missouri</td>
+<td>Electric</td>
+</tr><tr><td>United Telephone Mutual Aid Corporation (Turtle Mountain Communications)</td>
+<td>North Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Valley Telephone Cooperative (VTX Communications)</td>
+<td>Texas</td>
+<td>Telephone</td>
+</tr><tr><td>Venture Communications Cooperative</td>
+<td>South Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Wabash Communications Cooperative</td>
+<td>Illinois</td>
+<td>Telephone</td>
+</tr><tr><td>West Carolina Rural Telephone Cooperative (West Carolina Tel)</td>
+<td>South Carolina</td>
+<td>Telephone</td>
+</tr><tr><td>West Central Telephone Association</td>
+<td>Minnesota</td>
+<td>Telephone</td>
+</tr><tr><td>West Kentucky Rural Telephone Cooperative</td>
+<td>Kentucky</td>
+<td>Telephone</td>
+</tr><tr><td>West River Telecommunications Cooperative</td>
+<td>North Dakota and South Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>West Wisconsin Telcom Cooperative (24-7 Telcom)</td>
+<td>Wisconsin</td>
+<td>Telephone</td>
+</tr><tr><td>Western Telephone Company</td>
+<td>South Dakota</td>
+<td>Telephone</td>
+</tr><tr><td>Wilkes Telephone Membership Corporation (Wilkes Communications)</td>
+<td>North Carolina</td>
+<td>Telephone</td>
+</tr><tr><td>Yucca Telecommunications Systems</td>
+<td>New Mexico</td>
+<td>Telephone</td>
+</tr></tbody></table><h3> </h3>
+<h3><a name="coopsPodcast" id="coopsPodcast"></a>Community Broadband Bits Podcast Episodes</h3>
+<p>Listen to our collection of Community Broadband Bits Podcasts to learn firsthand about how electric cooperatives have made the decision to provide Internet service.</p>
+<table class="podTable"><tbody><tr><th>#</th>
+<th>Title</th>
+<th>Summary</th>
+<th>Guest</th>
+<th>Transcript</th>
+</tr><tr><td>
+<p>321<br /> 9/4/2018</p>
+</td>
+<td>
+<p><a href="https://www.muninetworks.org/content/analyzing-auction-jonathan-chambers-community-broadband-bits-podcast-321">Analyzing the Auction With Jonathan Chambers</a></p>
+</td>
+<td>
+<p>Results of the Connect America Fund Phase II auction, including a strong showing by electric co-ops</p>
+</td>
+<td>
+<p>Jonathan Chambers</p>
+</td>
+<td>
+<p><a href="https://www.muninetworks.org/content/transcript-community-broadband-bits-episode-321">Transcript 321</a></p>
+</td>
+</tr><tr><td>
+<p>314<br /> 7/17/2018</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/dmea-co-op-serving-broadband-and-innovation-colorado-community-broadband-bits-podcast-314">DMEA Co-op Serving Up Broadband and Innovation in Colorado</a></p>
+</td>
+<td>
+<p>The Delta Montrose Electric Association fiber deployment in Colorado</p>
+</td>
+<td>
+<p>John Gavan and Brad Harding</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-314">Transcript 314</a></p>
+</td>
+</tr><tr><td>
+<p>288<br /> 1/9/2018</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/north-dakotas-exceptional-fiber-networks-community-broadband-bits-podcast-288">North Dakota's Exceptional Fiber Networks</a></p>
+</td>
+<td>
+<p>North Dakota has low population density, but many fiber cooperatives</p>
+</td>
+<td>
+<p>Robin Anderson</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-288">Transcript 288</a></p>
+</td>
+</tr><tr><td>
+<p>277<br /> 11/1/2017</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/kit-carson-fibers-new-mexico-community-broadband-bits-podcast-277">Kit Carson Fibers up New Mexico</a></p>
+</td>
+<td>
+<p>Electric Cooperative builds fiber network in rural New Mexico</p>
+</td>
+<td>
+<p>Luis Reyes</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-277">Transcript 277</a></p>
+</td>
+</tr><tr><td>
+<p>276<br /> 10/24/2017</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/allband-all-rural-michigan-internet-access-community-broadband-bits-podcast-276">Allband All-in For Rural Michigan Internet Access</a></p>
+</td>
+<td>
+<p>Folks build a cooperative from scratch in rural Michigan</p>
+</td>
+<td>
+<p>Ron Siegel</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-276">Transcript 276</a></p>
+</td>
+</tr><tr><td>
+<p>249<br /> 4/19/2017</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/rural-electric-co-ops-reluctant-warriors-broadband-community-broadband-bits-podcast-249%22%20%5Co%20%22link%20to%20episode%20249">Rural Electric Co-ops as Reluctant Warriors for Broadband</a></p>
+</td>
+<td>
+<p>The challenges and decisions that rural electric cooperatives face</p>
+</td>
+<td>
+<p>Alyssa Clemsen-Roberts</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-249%22%20%5Co%20%22link%20to%20transcript%20249">Transcript 249</a></p>
+</td>
+</tr><tr><td>
+<p>243</p>
+<p>3/7/2017</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org">What's NEXT in North Arkansas?</a></p>
+</td>
+<td>
+<p>North Arkansas Electric Cooperative's pilot project for high-speed Internet service</p>
+</td>
+<td>
+<p>Mel Coleman</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcri">Transcript 243</a></p>
+</td>
+</tr><tr><td>
+<p>240</p>
+<p>2/14/2017</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/united-fiber-tackles-missouris-most-rural-community-broadband-bits-podcast-240/">United Fiber Tackles Missouri's Most Rural</a></p>
+</td>
+<td>
+<p>The demand for better, faster connections and the role of rural electric cooperatives</p>
+</td>
+<td>
+<p>Darren Farnan</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-240">Transcript 240</a></p>
+</td>
+</tr><tr><td>
+<p>229</p>
+<p>11/22/2016</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/">Rural Electrics Solve Rural Internet Access Problems</a></p>
+</td>
+<td>
+<p>Former head of FCC's Office of Strategic Planning and Policy Analysis on politics and rural connectivity</p>
+</td>
+<td>
+<p>Jon Chambers</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-229/">Transcript 229</a></p>
+</td>
+</tr><tr><td>
+<p>225</p>
+<p>10/25/2016</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/midwest-energy-cooperative-connects-rural-michigan-community-broadband-bits-podcast-225/">Midwest Energy Cooperative Connects Rural Michigan</a></p>
+</td>
+<td>
+<p>A rural electric cooperative provides fiber connectivity</p>
+</td>
+<td>
+<p>Bob Hance; Dave Allen</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-225">Transcript 225</a></p>
+</td>
+</tr><tr><td>
+<p>224</p>
+<p>10/18/2016</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/hr-trostle-co-ops-munis-connectivity-north-carolina-community-broadban">H.R. Trostle on Co-Ops, Munis, Connectivity in North Carolina</a></p>
+</td>
+<td>
+<p>ILSR Research Associate discusses North Carolina and Internet access</p>
+</td>
+<td>
+<p>H.R. Trostle</p>
+</td>
+<td>
+<p><a href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-224">Transcript 224</a></p>
+</td>
+</tr><tr><td>
+<p>203</p>
+<p>5/25/2016</p>
+</td>
+<td>
+<p><a title="link to audio episode 203" href="http://muninetworks.org/content/tennessee-potential-partnership-between-morristown-muni-and-aec-co-op-community-broadband-bi">Tennessee Potential Partnership Between Morristown Muni and AEC Co-op</a></p>
+</td>
+<td>
+<p>Morristown Tennessee, and the local electric co-op are teaming up to deliver needed services</p>
+</td>
+<td>
+<p>Jody Wigington; Greg Williams</p>
+</td>
+<td>
+<p><a title="link to transcript 203" href="https://muninetworks.org/content/transcript-community-broadband-bits-episode-203">Transcript 203</a></p>
+</td>
+</tr><tr><td>
+<p>198</p>
+<p>4/19/2016</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/new-cooperative-model-fiber-farm-community-broadband-bits-podcast-episode-198">A New Cooperative Model for Fiber to the Farm</a></p>
+</td>
+<td>
+<p>The RS Fiber Cooperative steals the spotlight with its new cooperative model</p>
+</td>
+<td>
+<p>Mark Erickson; Jake Rieke</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/transcript-community-broadband-bits-episode-198">Transcript 198</a></p>
+</td>
+</tr><tr><td>
+<p>188</p>
+<p>2/9/2016</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/north-carolina-coop-fibers-rural-counties-and-more-co">North Carolina Coop Fibers Up Rural Counties and More</a></p>
+</td>
+<td>
+<p>What does it take for a telephone coop in North Carolina to provide FTTH? President and CEO of Wilkes Communications and RiverStreet Networks explains</p>
+</td>
+<td>
+<p>Eric Cramer</p>
+</td>
+<td>
+<p><a href="http://www.muninetworks.org/content/transcript-community-broadband-bits-episode-188">Transcript 188</a></p>
+</td>
+</tr><tr><td>
+<p>140</p>
+<p>3/3/2015</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/rural-electric-co-mo-coop-goes-gig-community-broadband-bits-episode-140">Rural Electric Co-Mo Coop Goes Gig</a></p>
+</td>
+<td>
+<p>Discussion on how Co-Mo electric coop in rural Missouri structured broadband network and its objective to enter the business and results</p>
+</td>
+<td>
+<p>Randy Klindt</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/transcript-community-broadband-bits-episode-140">Transcript 140</a></p>
+</td>
+</tr><tr><td>
+<p>99</p>
+<p>5/20/2014</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/catching-rs-fiber-coop-minnesota-community-broadband-bits-podcast-99">Catching Up with the RS Fiber Coop in Minnesota</a></p>
+</td>
+<td>
+<p>Update on the RS Fiber Coop project in Minnesota</p>
+</td>
+<td>
+<p>Mark Erickson; Cindy Gerholz</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/transcript-community-broadband-bits-episode-99">Transcript 99</a></p>
+</td>
+</tr><tr><td>
+<p>92</p>
+<p>4/1/2014</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/understanding-georgia-communications-cooperative-community-broadband-bits-podcast-92">Understanding the Georgia Communications Cooperative</a></p>
+</td>
+<td>
+<p>Discussion on how cooperatives work together and expand the regional network in Georgia and challenges to connect rural premises with fiber optics</p>
+</td>
+<td>
+<p>Mike Foor</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/transcript-community-broadband-bits-episode-92">Transcript 92</a></p>
+</td>
+</tr><tr><td>
+<p>46</p>
+<p>5/14/2013</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content">North Georgia Network Brings Gig to Schools, Jobs to Region</a></p>
+</td>
+<td>
+<p>The origin of the North Georgia Network and its economic and social impact on the region</p>
+</td>
+<td>
+<p>Paul Belk</p>
+</td>
+<td>
+<p><a href="http://muninetworks.org/content/transcript-community-broadband-bits-episode-46">Transcript 46</a></p>
+</td>
+</tr></tbody></table><p> </p>
+<p>Image Credits:</p>
+<p><a title="link to flickr" href="https://www.flickr.com/photos/wwworks/686020113">Rural Barn Flag, woodleywonderworks, Creative Commons license</a></p>
+<p><a title="link to wikimedia" href="https://commons.wikimedia.org/wiki/File:House_Chamber,_Minnesota_State_Capitol.jpg">Minnesota House Chamber, Chris Gaukel, Creative Commons license</a></p>
+<p><a title="link to pixabay" href="https://pixabay.com/en/pole-sky-clouds-wires-telephone-2432680/">Wooden Pole, dimitrisvetsikas1969, Public Domain</a></p>
+</div></div></div><div class="field field-name-taxonomy-vocabulary-2 field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/tags/tags/cooperative">cooperative</a></div><div class="field-item odd"><a href="/tags-47">rural</a></div><div class="field-item even"><a href="/tags/tags/rural-electric-coop">rural electric coop</a></div><div class="field-item odd"><a href="/tags/allband-communications-cooperative">allband communications cooperative</a></div><div class="field-item even"><a href="/tags/tags/blue-ridge-mountain-coop">blue ridge mountain coop</a></div><div class="field-item odd"><a href="/tags/tags/co-mo-cooperative">co-mo cooperative</a></div><div class="field-item even"><a href="/tags/tags/appalachian-electric-cooperative">appalachian electric cooperative</a></div><div class="field-item odd"><a href="/tags/tags/georgia-communications-cooperative">georgia communications cooperative</a></div><div class="field-item even"><a href="/tags/national-rural-electric-cooperative-association">national rural electric cooperative association</a></div><div class="field-item odd"><a href="/tags/tags/northeast-oklahoma-electric-cooperative">northeast oklahoma electric cooperative</a></div><div class="field-item even"><a href="/tags/tags/farmers-mutual-telephone-coop">farmers mutual telephone coop</a></div><div class="field-item odd"><a href="/tags/tags/kit-carson-electric-coop">kit carson electric coop</a></div><div class="field-item even"><a href="/tags-188">paul bunyan telephone cooperative</a></div><div class="field-item odd"><a href="/tags/tags/united-electric-cooperative">United Electric Cooperative</a></div><div class="field-item even"><a href="/tags/tags/rs-fiber-coop">rs fiber coop</a></div><div class="field-item odd"><a href="/tags-94">digital divide</a></div><div class="field-item even"><a href="/tags-54">minnesota</a></div><div class="field-item odd"><a href="/tags-73">tennessee</a></div><div class="field-item even"><a href="/tags-57">north carolina</a></div><div class="field-item odd"><a href="/tags-217">colorado</a></div><div class="field-item even"><a href="/tags-292">grant</a></div></div></div>
+  
+
+  
+</article>
+        <div class="region region-content-bottom">
+    <div class="block block-disqus first last odd" id="block-disqus-disqus-comments">
+
+      
+  <div id="disqus_thread"><noscript><p><a href="http://muninetworks.disqus.com/?url=https%3A%2F%2Fmuninetworks.org%2Fcontent%2Frural-cooperatives-page">View the discussion thread.</a></p></noscript></div>
+</div>
+  </div>
+      <!-- Stories DO show content_bottom -->
+
+          </div>
+
+
+    
+          <aside id="sidebar" class="sidebars">
+                
+<div class="block block-block first odd" id="block-block-9">
+
+      
+  <div class="subscribe"><a title="Subscribe to MuniNetworks" href="http://muninetworks.org/content/sign-newsletters"> Subscribe via email for a weekly digest. </a></div>
+
+</div>
+<div class="block block-search even" role="search" id="block-search-form">
+
+      
+  <form class="google-cse" action="/content/rural-cooperatives-page" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-8GUKauiZ62xc8seZ_IjpDCUEemrlpZv7Che1bqYFHFk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div class="block block-block odd" id="block-block-17">
+
+      
+  <div class="sidebar-tabs">
+<div class="tab tab-map">
+<a href="/communitymap">Community Networks Map</a>
+</div>
+<div class="tab tab-podcasts">
+<a href="/broadbandbits">Podcast</a>
+</div>
+<div class="tab tab-videos">
+<a href="/content/videos">Videos</a>
+</div>
+<div class="tab tab-news">
+<a href="/fact-sheets">Fact Sheets</a>
+</div>
+</div>
+</div>
+<div class="block block-views even" id="block-views-featured-reports-block">
+
+        <h2 class="block__title">Featured Reports</h2>
+    
+  <div class="view view-Featured-Reports view-id-Featured_Reports view-display-id-block view-dom-id-aa71bbf1af6840cbf4d252d2155a4cec">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/reports/edit-report-profiles-monopoly-big-telecom-and-cable"><img src="https://muninetworks.org/sites/www.muninetworks.org/files/styles/thumbnail/public/cover-monopoly-report-2018_1.png?itok=SPxL6gPj" width="100" height="72" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/reports/edit-report-profiles-monopoly-big-telecom-and-cable">Profiles of Monopoly: Big Telecom and Cable</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/reports/edit-report-cooperatives-fiberize-rural-america-trusted-model-internet-era"><img src="https://muninetworks.org/sites/www.muninetworks.org/files/styles/thumbnail/public/fiber-map-small-2017_0.jpg?itok=9HMhSdUD" width="100" height="60" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/reports/edit-report-cooperatives-fiberize-rural-america-trusted-model-internet-era">Cooperatives Fiberize Rural America: A Trusted Model For...</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/reports/secrets-behind-partnerships-improve-internet-access"><img src="https://muninetworks.org/sites/www.muninetworks.org/files/styles/thumbnail/public/PPP-Report-2016%20cover%20small.jpeg?itok=-r-ERCiB" width="77" height="100" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/reports/secrets-behind-partnerships-improve-internet-access">The Secrets Behind Partnerships to Improve Internet Access</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/reports/rs-fiber-fertile-fields-new-rural-internet-cooperative"><img src="https://muninetworks.org/sites/www.muninetworks.org/files/styles/thumbnail/public/rs-fiber-report-2016-cover-small.jpg?itok=ImlkseCr" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/reports/rs-fiber-fertile-fields-new-rural-internet-cooperative">RS Fiber: Fertile Fields for New Rural Internet Cooperative</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div style="clear: both">
+<a class="more-link" href="/reports">See All Reports</a>
+</div>
+    </div>
+  
+  
+</div>
+</div>
+<div class="block block-tagclouds odd" id="block-tagclouds-2">
+
+        <h2 class="block__title">Tags</h2>
+    
+  <span class='tagclouds-term'><a href="/tags-187" class="tagclouds level2" title="">at&amp;t</a></span>
+<span class='tagclouds-term'><a href="/tags-277" class="tagclouds level4" title="">audio</a></span>
+<span class='tagclouds-term'><a href="/tags/broadband-bits" class="tagclouds level3" title="">broadband bits</a></span>
+<span class='tagclouds-term'><a href="/tags-41" class="tagclouds level1" title="">cable</a></span>
+<span class='tagclouds-term'><a href="/tags-135" class="tagclouds level1" title="">chattanooga</a></span>
+<span class='tagclouds-term'><a href="/tags-124" class="tagclouds level2" title="">christopher mitchell</a></span>
+<span class='tagclouds-term'><a href="/tags-217" class="tagclouds level2" title="">colorado</a></span>
+<span class='tagclouds-term'><a href="/tags-113" class="tagclouds level2" title="">comcast</a></span>
+<span class='tagclouds-term'><a href="/tags-8" class="tagclouds level4" title="">competition</a></span>
+<span class='tagclouds-term'><a href="/tags-215" class="tagclouds level1" title="">consideration</a></span>
+<span class='tagclouds-term'><a href="/tags/tags/cooperative" class="tagclouds level1" title="">cooperative</a></span>
+<span class='tagclouds-term'><a href="/tags-379" class="tagclouds level1" title="">dark fiber</a></span>
+<span class='tagclouds-term'><a href="/tags-17" class="tagclouds level5" title="">economic development</a></span>
+<span class='tagclouds-term'><a href="/tags-173" class="tagclouds level4" title="">fcc</a></span>
+<span class='tagclouds-term'><a href="/tags/tags/fiber" class="tagclouds level1" title="">fiber</a></span>
+<span class='tagclouds-term'><a href="/category/tags/ftth" class="tagclouds level6" title="Fiber to the Home">FTTH</a></span>
+<span class='tagclouds-term'><a href="/tags-296" class="tagclouds level3" title="">gigabit</a></span>
+<span class='tagclouds-term'><a href="/tags-34" class="tagclouds level1" title="">incumbent</a></span>
+<span class='tagclouds-term'><a href="/tags/tags/interview" class="tagclouds level1" title="">interview</a></span>
+<span class='tagclouds-term'><a href="/tags-177" class="tagclouds level3" title="">legislation</a></span>
+<span class='tagclouds-term'><a href="/tags-68" class="tagclouds level1" title="">local</a></span>
+<span class='tagclouds-term'><a href="/tags/tags/media-roundup" class="tagclouds level2" title="">media roundup</a></span>
+<span class='tagclouds-term'><a href="/tags-54" class="tagclouds level2" title="">minnesota</a></span>
+<span class='tagclouds-term'><a href="/tags" class="tagclouds level6" title="">muni</a></span>
+<span class='tagclouds-term'><a href="/tags-57" class="tagclouds level2" title="">north carolina</a></span>
+<span class='tagclouds-term'><a href="/tags-44" class="tagclouds level3" title="">open access</a></span>
+<span class='tagclouds-term'><a href="/tags/partnership" class="tagclouds level2" title="">partnership</a></span>
+<span class='tagclouds-term'><a href="/tags-276" class="tagclouds level3" title="">podcast</a></span>
+<span class='tagclouds-term'><a href="/tags-31" class="tagclouds level2" title="">policy</a></span>
+<span class='tagclouds-term'><a href="/tags-131" class="tagclouds level3" title="">preemption</a></span>
+<span class='tagclouds-term'><a href="/tags-60" class="tagclouds level1" title="">public v private</a></span>
+<span class='tagclouds-term'><a href="/tags-47" class="tagclouds level6" title="">rural</a></span>
+<span class='tagclouds-term'><a href="/tags-66" class="tagclouds level1" title="">school</a></span>
+<span class='tagclouds-term'><a href="/tags-132" class="tagclouds level3" title="">state laws</a></span>
+<span class='tagclouds-term'><a href="/tags-45" class="tagclouds level1" title="">stimulus</a></span>
+<span class='tagclouds-term'><a href="/tags-73" class="tagclouds level2" title="">tennessee</a></span>
+<span class='tagclouds-term'><a href="/tags/transcript" class="tagclouds level3" title="">transcript</a></span>
+<span class='tagclouds-term'><a href="/tags/utility" class="tagclouds level3" title="">utility</a></span>
+<span class='tagclouds-term'><a href="/tags-37" class="tagclouds level3" title="">video</a></span>
+<span class='tagclouds-term'><a href="/category/tags/wireless" class="tagclouds level2" title="">Wireless</a></span>
+<div class="more-link"><a href="/tagclouds/chunk/2" title="more tags">More</a></div>
+</div>
+<div class="block block-block even" id="block-block-26">
+
+        <h2 class="block__title">@communitynets</h2>
+    
+  <a class="twitter-timeline" href="https://twitter.com/communitynets?ref_src=twsrc%5Etfw">Tweets by communitynets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="block block-menu odd" role="navigation" id="block-menu-menu-links">
+
+        <h2 class="block__title">Related Sites</h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://baller.com/comm_broadband.html" title="Law firm specializing in muni broadband" class="menu__link">Baller Herbst Law Group</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://blandinonbroadband.org/" title="" class="menu__link">Blandin on Broadband</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://bozemanfiber.com/" title="Nonprofit open access network" class="menu__link">Bozeman Fiber</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.bbcmag.com" title="Broadband magazine that occasionally focuses on publicly owned fiber-optic networks." class="menu__link">Broadband Communities</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://broadbandnow.com/" title="Easily Research, Compare, and Shop Internet Service in Seconds." class="menu__link">Broadband Now</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://cityoflight2.com/" title="City of Light 2.0" class="menu__link">Buffalo / West NY</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://centerformediajustice.org/" title="" class="menu__link">Center for Media Justice</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.localnetchoice.org" title="CLIC" class="menu__link">Coalition for Local Internet Choice</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.cityofcortez.com/index.aspx?NID=135" title="Open Access Network in SW Corner of Colorado" class="menu__link">Cortez Colorado Fiber Network</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ctcnet.us/library/" title="Reports and Studies about Broadband Infrastructure" class="menu__link">CTC Technology and Energy Library</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://designnine.com/news/" title="Technological Futures by Design Nine" class="menu__link">Design Nine Blog</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://digitalredwoods.net" title="Northern California needs broadband" class="menu__link">Digital Redwoods</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://evolvinghumansystems.com" title="Mitch Shapiro " class="menu__link">Evolving Human Systems</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://fiberfilmfestival.com" title="Great films about Internet access" class="menu__link">Fiber Film Festival</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://monticellofiber.com/" title="Monticello, MN Muni Fiber Network" class="menu__link">Fibernet Monticello</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://roisforyou.wordpress.com" title="Craig Settles&#039; blog" class="menu__link">Building that Gigabit City</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://freepress.net/" title="On Community Internet Ownership - and more!" class="menu__link">Free Press</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.freeutopia.org/" title="Blog covering FTTH network in Utah" class="menu__link">Free UTOPIA</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.imbca.org" title="" class="menu__link">Illinois Muni Broadband Communications Association</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ipaloalto.org/" title="Community-based open access fiber to the home in California" class="menu__link">iPaloAlto</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.iowamunicipals.com" title="Publicly owned networks in Iowa" class="menu__link">Iowa Municipals</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://isen.com/blog/" title="David Isenberg&#039;s Blog" class="menu__link">Isen.blog</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.keepusconnected.org/" title="" class="menu__link">Keep Us Connected - Illinois</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://blog.lafayetteprofiber.com/" title="FTTH blog from Lafayette, Louisiana" class="menu__link">Lafayette Pro Fiber Archive</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.co.lake.mn.us/index.asp?Type=NONE&amp;SEC={36342292-4188-4BD1-82E7-191E7714BC12}" title="FTTH in Rural MN County" class="menu__link">Lake County Fiber Optic Project</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.mag-net.org/" title="MAG-Net" class="menu__link">Media Action Grassroots</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://main.nc.us/" title="Offering broadband in the previously unconnected mountains in North Carolina" class="menu__link">Mountain Area Information Network</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.broadband4everyonenc.com/" title="North Carolina Group Encouraging Local Networks" class="menu__link">NC Broadband 4 Everyone</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://ndanville.net" title="Danville, Virginia, network blog" class="menu__link">nDanville</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.nextcenturycities.org" title="Organization of forward-thinking local governments across the U.S." class="menu__link">Next Century Cities</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://nela-isc.net/blog/" title="" class="menu__link">North East Los Angeles Internet Service Cooperative</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://northwest-connect.org/" title="A Northwest Connecticut Fiber-Optic Network Collaborative" class="menu__link">Northwest Connect</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://oti.newamerica.net" title="New America Foundation" class="menu__link">Open Technology Initiative</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://potsandpansbyccg.com/" title="Blog by Telecom Consultant" class="menu__link">Pots and Pans</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://princetonbroadband.com/" title="Town in Rural Massachusetts" class="menu__link">Princeton Mass Broadband</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.publicknowledge.org/" title="" class="menu__link">Public Knowledge</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ruralstrategies.org/rural-broadband-policy-group" title="" class="menu__link">Rural Broadband Policy Group</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://sffiber.info/" title="Community Fiber in the Bay Area" class="menu__link">San Francisco Fiber</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://savencbb.wordpress.com" title="Private Providers are trying to prevent competition in North Carolina" class="menu__link">Save NC Broadband</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://savetheinternet.com/" title="" class="menu__link">Save the Internet</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.rsfiber.coop/" title="Rural Minnesota Fiber Network" class="menu__link">RS Fiber Cooperative</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.mysmbs.com/" title="Broadband in Windom and Surrounding Areas" class="menu__link">Southwest Minnesota Broadband Group</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.stopthecap.com" title="Focused primarily on consumer issues, but often supportive of publicly owned networks" class="menu__link">Stop the Cap</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://scrawford.net" title="" class="menu__link">Susan Crawford</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://syracusebroadband.org" title="Group in Syracuse starting efforts to create a community owned fiber network" class="menu__link">Syracuse Municipal Broadband Initiative</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://tales-of-the-sausage-factory.wetmachine.com/" title="Harold Feld&#039;s blog" class="menu__link">Tales of the Sausage Factory</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.teletruth.org/" title="Alliance for Customers’ Telecommunications &amp; Broadband Rights" class="menu__link">TeleTruth</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.fiberoptics4tn.com" title="" class="menu__link">Tennessee Fiber Optics Communities</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://rbg.glasgow-ky.com/" title="Glasgow, Kentucky&#039;s blog" class="menu__link">The Red, Blue, and Green</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.upgradeseattle.com/" title="Campaign for Seattle Muni Broadband Network" class="menu__link">Upgrade Seattle</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.wired-west.net" title="Building a publicly owned open access network" class="menu__link">Wired West Massachusetts</a></li>
+<li class="menu__item is-leaf last leaf"><a href="https://www.newamerica.org/oti/wireless-future-project/" title="New America&#039;s blog focusing on the future of wireless networks" class="menu__link">Wireless Future Blog</a></li>
+</ul>
+</div>
+<div class="block block-block last even" id="block-block-27">
+
+        <h2 class="block__title">Feeds</h2>
+    
+  <p><a href="http://feeds.feedburner.com/muninetworks/JEAM">Front Page Stories</a><br /><a href="http://feeds.feedburner.com/BroadbandBits">Broadband Bits Podcast</a><br /><a href="http://feeds.feedburner.com/CommunityBroadbandQuotes">Broadband Quotes</a><br /><a href="https://www.muninetworks.org/reports/rss.xml">Reports</a></p>
+
+</div>
+      </aside>
+    
+  </div>
+
+    <footer id="footer" class="footer region region-footer" role="contentinfo">
+    <div class="block block-views first odd" id="block-views-quotes-block-1">
+
+        <h2 class="block__title">Random Quote</h2>
+    
+  <div class="view view-Quotes view-id-Quotes view-display-id-block_1 view-dom-id-e8a869df4f122800304759346ac5c150">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content"><p>When incumbent providers cannot serve the broadband needs of some localities, local governments should be allowed--no, encouraged--to step up to the plate and ensure that their citizens are not left on the wrong side of the great divide. So it is regrettable that some states are considering, and even passing, legislation that could hinder local solutions to bring the benefits of broadband to their communities. It's exactly the wrong way to go.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/quotes/">View more quotes</a></p>
+    </div>
+  
+  
+</div>
+</div>
+<div class="block block-block even" id="block-block-19">
+
+      
+  <div class="copyright" style="line-height: 2em;"><span style="font-weight: bold; color: #888;">2018 Institute for Local Self-Reliance</span> <br />Minneapolis, MN | Washington, DC | Portland, ME <br />Community Broadband Networks is a Project of ILSR 
+<p> <img src="/sites/muninetworks.org/files/cc-byncsa.png" alt="Creative Commons Logo - NC, BY, SA" width="88" height="31" /></p></div>
+
+</div>
+<div class="block block-block last odd" id="block-block-18">
+
+      
+  		<ul class="socialmedia">
+<li class="subscribe"><a title="Subscribe to MuniNetworks" href="/content/sign-newsletters">Subscribe.</a></li>
+			<li class="fb"><a href="https://www.facebook.com/communitybroadband" title="Muninetworks on Facebook">Facebook</a></li>
+			<li class="tw"><a href="https://www.twitter.com/communitynets" title="Follow us @communitynets">@communitynets</a></li>
+		</ul>
+</div>
+  </footer>
+
+</div>
+
+  <script>da2a.targets=[
+{title:"Cooperatives Build Community Networks",url:"https:\/\/muninetworks.org\/content\/rural-cooperatives-page"}];
+da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_load();</script>
+</body>
+</html>

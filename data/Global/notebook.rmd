@@ -54,7 +54,7 @@ threes <- sum(connections_per_city$connections == 3)
 fours <- sum(connections_per_city$connections == 4)
 distribution <- cbind(ones, twos, threes, fours)
 barplot(distribution)
-write.csv(data, file = "/IXPs/IXPs.csv")
+write.csv(data, file = "IXPs.csv")
 ```
 ### Conclusion
 This data is stil messy, in particular because the city data isn't standardized. The unique() does not understand the similarity between "NYC" and " New York City". Manual work will have to be done to collapse all of these cities. Additionally, I do not know whether Seacaucus NJ should count as NYC for the purposes of this project since it serves the city. In the vast majority of other cases, this is not an issue. Despite this, we can see that the vast majority of cities in the world have only a single high-level connection to *the* internet. 
@@ -65,27 +65,53 @@ I also wanted a list of cities and municipalities that hand locally-controlled i
 data.file2 <- curl_download("https://muninetworks.org/content/municipal-ftth-networks", "FTTH/ftth.html")
 data.file2
 ```
-
+Next, I read the file in, line by line.
 ```{r}
 lines <- readLines(data.file2)
 head(lines)
 ```
+Then, I used a text editor to find the first line in my dataset. From there, I reconstructed the html table using regex.
 ```{r}
 first.chunk <- which(grepl("<p><strong>", lines))
 #lines[first.chunk]
-networks <- str_extract(lines[first.chunk], "(?<=<strong>)(.*\n?)(?=</strong>)")
-communities <- str_extract(lines[first.chunk+1], "(?<=Served: )(.*)(?=</em>)" )
-years <- str_extract(lines[first.chunk+3], "(?<=Year: )(.*)(?=</li>)" )
-populations <- str_extract(lines[first.chunk+4], "(?<=Population: )(.*)(?=</li>)" )
-costs <- str_extract(lines[first.chunk+5], "(?<=Cost: )(.*)(?=</li>)" )
-funding.methods <- str_extract(lines[first.chunk+6], "(?<=Method: )(.*)(?=</li>)" )
-governances <- str_extract(lines[first.chunk+7], "(?<=Governance: )(.*)(?=</li>)" )
-services <- str_extract(lines[first.chunk+8], "(?<=Services: )(.*)(?=</li>)" )
-speeds <- str_extract(lines[first.chunk+9], "(?<=Speed: )(.*)(?=</li>)" )
-
-data <- data.frame(cbind(networks, communities, years, populations, costs, funding.methods, governances, services, speeds))
-data
+networks <- c(str_extract(lines[first.chunk], "(?<=<strong>)(.*\n?)(?=</strong>)"))
+communities <- c(str_extract(lines[first.chunk+1], "(?<=Served: )(.*)(?=</em>)" ))
+years <- c(str_extract(lines[first.chunk+3], "(?<=Year: )(.*)(?=</li>)" ))
+populations <- c(str_extract(lines[first.chunk+4], "(?<=Population: )(.*)(?=</li>)" ))
+costs <- c(str_extract(lines[first.chunk+5], "(?<=Cost: )(.*)(?=</li>)"))
+funding.methods <- c(str_extract(lines[first.chunk+6], "(?<=Method: )(.*)(?=</li>)" ))
+governances <- c(str_extract(lines[first.chunk+7], "(?<=Governance: )(.*)(?=</li>)" ))
+services <- c(str_extract(lines[first.chunk+8], "(?<=Services: )(.*)(?=</li>)" ))
+speeds <- c(str_extract(lines[first.chunk+9], "(?<=Speed: )(.*)(?=</li>)" ))
 ```
+Then I bound all the variables into a dataframe and wrote them to a csv.
+```{r}
+data <- (cbind(networks, communities, years, populations, costs, funding.methods, governances, services, speeds))
+head(data)
+write.csv(data, file = "IXPs.csv")
+```
+For my analysis, I wanted to see the cost/per person of building a fiber network. So I cleaned up the data by pulling out the dollar figures and removing the NAs. 
+```{r}
+communities <- data.frame(communities)
+data <- data.frame(data)
+
+#Funds (in millions)
+funds <- str_extract(data$costs, "[0-9]{1,4}")
+funds <- funds[!is.na(funds)]
+funds = as.double(funds)
+mean_f = mean(funds)
+
+#Population
+pop <- str_extract(data$populations, "[0-9]{1,7}")
+pop <- pop[!is.na(pop)]
+pop <- as.double(pop)
+mean_p <- mean(pop)
+
+#Wrapping it Up
+mean_f /mean_p
+```
+The average community network costs about 1,000,000 per person! Clearly something is wrong here! This might explain our results from section 1.
+
 ## Mac Addresses
 Finally, I wanted to be able to track the types of devices so that I can do more deep network intelligence. First, I have to load the dataset from the IEEE (available as a .txt).
 
@@ -115,7 +141,23 @@ Addresses <- c(lines2)
 Zips <- c(str_extract(lines3, "[0-9]{5}"))
 Region <- c(str_extract(lines3, "([^[0-9]{5}]+)"))
 Country <- c(str_extract(lines4, "[:alpha:]{2}"))
-data <- cbind(MACs, Manufacturers, Addresses, Zips, Region, Country)
-write.csv(data, file = "MACs/IEEE-MACs.csv")
+data <- (cbind(MACs, Manufacturers, Addresses, Zips, Region, Country))
+head(data)
+write.csv(data, file = "IEEE-MACs.csv")
+
 ```
+I'm repeating the same geographic analysis as above, but this time looking at zip codes. 
+```{r}
+per_country = data.frame()
+data <- data.frame(Country)
+country.list <- unique(trimws(data$Country))
+for (country in country.list){
+ number <- dim(subset(data, Country == country))[[1]]
+ new.row <- cbind(country, number)
+ per_country <- rbind(per_country, new.row)
+}
+per_country <- data.frame(per_country)
+arrange(per_country, number)
+```
+We can see from this data that the US has 3 times as many networked devices manufacturers than China, despite other assumptions. Additionally, both Germany and Taiwan have significant investments in this field.
 

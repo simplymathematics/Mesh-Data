@@ -22,6 +22,6 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 
-# Data Files are too big, various folders called too big
+# Data Files that are too big, various folders called toobig
 
 **/toobig/*

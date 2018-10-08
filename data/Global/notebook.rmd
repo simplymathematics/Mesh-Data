@@ -54,8 +54,9 @@ connections_per_city <- rbind(new.row, connections_per_city)
 one <- sum(connections_per_city$connections == 1) #binning
 two <- sum(connections_per_city$connections == 2)
 three <- sum(connections_per_city$connections == 3)
-four <- sum(connections_per_city$connections > 4)
-distribution <- cbind(one, two, three, four)
+four <- sum(connections_per_city$connections == 4)
+five <- sum(connections_per_city$connections == 5)
+distribution <- cbind(one, two, three, four, five)
 barplot(distribution, legend.text = "Number of Connections within City")
 write.csv(data, file = "IXPs.csv")
 ```

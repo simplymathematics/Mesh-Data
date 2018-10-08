@@ -202,10 +202,10 @@ suppressMessages(library(rworldmap))
 ```{r}
 full.name <- countrycode(per_country$country, "iso2c", "country.name", nomatch = NULL )
 per_country <- cbind(per_country, full.name)
-per_country
 
 ieee.manufacturers.per.country <- joinCountryData2Map(per_country, joinCode = "ISO2", nameJoinColumn = "country")
 mapCountryData(ieee.manufacturers.per.country, nameColumnToPlot = "number", mapTitle ="Distinct IEEE Manufacturers per Country", addLegend =FALSE, colourPalette =  "heat", missingCountryCol = "black", oceanCol = "black" )
 
 ```
 
+This map corroborates the data from section 1. Both indicate that only a few places in the world are privileged with Internet access despite the relative affordabliity for instrastructure. 
